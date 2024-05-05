@@ -1,0 +1,91 @@
+[Script Info]
+; Font Subset: HZSTSFWQ - FOT-Seurat ProN B
+; Font Subset: T85CCL86 - FZCuYuan-M03
+; Font Subset: JCIIPRV8 - HYQiHei 65S
+; Font Subset: 5UXC5AX5 - DFHanziPenW5-A
+; Font Subset: MFHMD7ZM - FOT-Rodin ProN EB
+; Font Subset: 61N80HIY - FZLanTingHei-H-GBK
+; Font Subset: F8Z1VO93 - FOT-MatisseEleganto Pro DB
+; Font Subset: HKPMT0W9 - MYoyo PRC Medium
+; Font Subset: 5L5GRENA - HYXuanSong 65S
+; Font Subset: MJIWS61B - MYoyo HK Medium
+; Processed by AssFontSubset v1.2.1.12
+Title: [Nekomoe kissaten] BanG Dream! It’s MyGO!!!!! [13][Web].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZCuYuan-M03,70,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,2,10,10,20,1
+Style: Dial_JP,HZSTSFWQ,52,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,10,1
+Style: Dial_JP2,HZSTSFWQ,52,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,90,90,0,0,1,2.5,0,8,10,10,10,1
+Style: Dial_CH,T85CCL86,70,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,2,10,10,60,1
+Style: Dial_CH2,T85CCL86,70,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,90,90,0,0,1,2.8,0,8,10,10,56,1
+Style: Cmt_CH,T85CCL86,60,&H14FFFFFF,&H000000FF,&H14211711,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,7,20,20,20,1
+Style: Screen,5UXC5AX5,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title,5UXC5AX5,72,&H00494847,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,2,1,10,10,10,1
+Style: Staff,5UXC5AX5,48,&H00494847,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,1.5,8,10,10,10,1
+Style: ED_JP,FOT-Rodin ProN B,54,&H00B28741,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,24,1
+Style: ED_CH,FZLanTingHei-B-GBK,52,&H00B28741,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,24,1
+Style: OP_JP,MFHMD7ZM,54,&H00ECEEF1,&H000000FF,&H54000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,12,1
+Style: OP_CH,61N80HIY,52,&H00EEEEF0,&H000000FF,&H54000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,12,1
+Style: IN_JP_EP03,FOT-TsukuMin Pr6N E,64,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: IN_CH_EP03,HYXuanSong 65S,64,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,70,1
+Style: IN_JP_EP05,FOT-TsukuMin Pr6N E,52,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,10,12,1
+Style: IN_CH_EP06,HYXuanSong 65S,46,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,101,101,0,0,1,2,0,9,10,10,70,1
+Style: IN_JP_EP07_M2,FOT-TsukuMin Pr6N E,60,&H00FFFFFF,&H000000FF,&H003A2912,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,8,1
+Style: IN_CH_EP07_M2,HYXuanSong 65S,60,&H00FFFFFF,&H000000FF,&H003A2912,&H00000000,0,0,0,0,101,101,0,0,1,2,0,2,10,10,62,1
+Style: IN_JP_EP07_M1,FOT-Rodin ProN DB,48,&H00FFFFFF,&H000000FF,&H00BC722C,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
+Style: IN_CH_EP07_M1,HYQiHei 65S,68,&H00FFFFFF,&H000000FF,&H00BC722C,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,60,1
+Style: IN_JP_EP10,FOT-TsukuMin Pr6N E,64,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: IN_CH_EP10,HYXuanSong 65S,64,&H00FFFFFF,&H000000FF,&H00403323,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,70,1
+Style: IN_JP_EP13,F8Z1VO93,48,&H00FFFFFF,&H000000FF,&H00540091,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: IN_CH_EP13-CHS,HKPMT0W9,54,&H00FFFFFF,&H000000FF,&H00540091,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,65,1
+Style: Phone,JCIIPRV8,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.98,0:00:05.90,Dial_JP,,0,0,0,,では日曜10時に　担当の者がお伺いいたします
+Dialogue: 0,0:00:05.90,0:00:08.59,Dial_JP,,0,0,0,,お時間をいただき　ありがとうございました
+Dialogue: 0,0:00:31.28,0:00:34.30,Dial_JP,,0,0,0,,睦さん　祥子さんがいらっしゃいましたよ
+Dialogue: 0,0:00:36.72,0:00:39.10,Dial_JP,,0,0,0,,既にほかのメンバーはそろいましてよ
+Dialogue: 0,0:00:39.39,0:00:40.61,Dial_JP,,0,0,0,,残るはあなただけ
+Dialogue: 0,0:00:40.94,0:00:41.73,Dial_JP,,0,0,0,,入る
+Dialogue: 0,0:00:45.81,0:00:47.71,Dial_JP,,0,0,0,,後戻りはできませんわよ
+Dialogue: 0,0:00:49.82,0:00:52.95,Dial_JP,,0,0,0,,祥が　壊れそうだから
+Dialogue: 0,0:00:54.02,0:00:55.70,Dial_JP,,0,0,0,,いいご身分ですわね
+Dialogue: 0,0:00:58.24,0:00:58.71,Dial_JP,,0,0,0,,ごめん…
+Dialogue: 0,0:00:58.71,0:01:00.24,Dial_JP,,0,0,0,,心配は結構
+Dialogue: 1,0:00:01.98,0:00:05.90,Dial_CH,,0,0,0,,那么周日10点 负责人将会前往
+Dialogue: 1,0:00:05.90,0:00:08.59,Dial_CH,,0,0,0,,感谢您百忙之中抽空接听电话
+Dialogue: 1,0:00:31.28,0:00:34.30,Dial_CH,,0,0,0,,睦小姐 祥子小姐来了
+Dialogue: 1,0:00:36.72,0:00:39.10,Dial_CH,,0,0,0,,其他成员已经到齐了
+Dialogue: 1,0:00:39.39,0:00:40.61,Dial_CH,,0,0,0,,只差你了
+Dialogue: 1,0:00:40.94,0:00:41.73,Dial_CH,,0,0,0,,我加入
+Dialogue: 1,0:00:45.81,0:00:47.71,Dial_CH,,0,0,0,,没有回头路哦
+Dialogue: 1,0:00:49.82,0:00:52.95,Dial_CH,,0,0,0,,因为你快坏掉了
+Dialogue: 1,0:00:54.02,0:00:55.70,Dial_CH,,0,0,0,,真是居高临下啊
+Dialogue: 1,0:00:58.24,0:00:58.71,Dial_CH,,0,0,0,,对不…
+Dialogue: 1,0:00:58.71,0:01:00.24,Dial_CH,,0,0,0,,不劳你操心
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Comment: 0,0:14:17.91,0:14:19.63,Dial_JP,,0,0,15,,Ave Mujica
+Comment: 0,0:14:21.38,0:14:26.64,Dial_JP,,0,0,15,,Alas, my love, you do me wrong
+Comment: 0,0:14:26.64,0:14:32.41,Dial_JP,,0,0,15,,To cast me off discourteously
+Comment: 0,0:14:32.41,0:14:38.02,Dial_JP,,0,0,15,,For I have loved you so long
+Comment: 0,0:14:38.02,0:14:43.65,Dial_JP,,0,0,15,,Delighting in your company
+Comment: 0,0:21:50.25,0:21:54.29,Default,,0,0,0,,Comment
+Comment: 0,0:21:50.25,0:21:54.29,Default,,0,0,0,,Screen
+Comment: 0,0:21:50.25,0:21:54.29,Default,,0,0,0,,Title
+Comment: 0,0:23:30.97,0:23:37.40,Default,,0,0,0,,Staff
+Comment: 0,0:01:05.96,0:01:05.96,Default,,0,0,0,,OP「壱雫空」
+Comment: 0,0:21:54.92,0:21:56.75,Default,,0,0,0,,IN「Ave Mujica」
+Comment: 1,0:19:18.35,0:19:20.14,IN_CH_EP13-CHS,,0,0,0,,{\blur2}La La La La La La Lan
+Comment: 1,0:19:21.72,0:19:23.35,IN_CH_EP13-CHS,,0,0,0,,{\blur2}La La La La La La Lan
+Comment: 1,0:20:30.02,0:20:31.96,IN_CH_EP13-CHS,,0,0,0,,{\blur2}La La La La La La Lan
+Comment: 1,0:20:33.41,0:20:35.22,IN_CH_EP13-CHS,,0,0,0,,{\blur2}La La La La La La Lan

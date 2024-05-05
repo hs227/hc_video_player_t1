@@ -1,0 +1,10 @@
+debug/audiooutput.o
+debug/audiooutput_v1.o
+debug/avframequeue.o
+debug/avpacketqueue.o
+debug/avsyncclocker.o
+debug/decodethread.o
+debug/demuxthread.o
+debug/fmtaudioc.o
+debug/main.o
+debug/videooutput.o
