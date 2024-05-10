@@ -1,0 +1,11 @@
+release/audiooutput.o
+release/audiooutput_v1.o
+release/avframebak.o
+release/avframequeue.o
+release/avpacketqueue.o
+release/avsyncclocker.o
+release/decodethread.o
+release/demuxthread.o
+release/main.o
+release/playerstate.o
+release/videooutput.o

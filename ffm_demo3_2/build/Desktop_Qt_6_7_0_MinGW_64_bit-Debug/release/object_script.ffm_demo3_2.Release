@@ -1,0 +1,13 @@
+release/audiofilterthread.o
+release/audiooutput_v1.o
+release/avframebak.o
+release/avframequeue.o
+release/avpacketqueue.o
+release/avsyncclocker.o
+release/decodethread.o
+release/demuxthread.o
+release/libass_user.o
+release/main.o
+release/playerstate.o
+release/videofilterthread.o
+release/videooutput.o

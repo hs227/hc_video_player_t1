@@ -1,0 +1,22 @@
+Start:1980,End:5900,Text:では日曜10時に　担当の者がお伺いいたします
+Start:5900,End:8590,Text:お時間をいただき　ありがとうございました
+Start:31280,End:34300,Text:睦さん　祥子さんがいらっしゃいましたよ
+Start:36720,End:39100,Text:既にほかのメンバーはそろいましてよ
+Start:39390,End:40610,Text:残るはあなただけ
+Start:40940,End:41730,Text:入る
+Start:45810,End:47710,Text:後戻りはできませんわよ
+Start:49820,End:52950,Text:祥が　壊れそうだから
+Start:54020,End:55700,Text:いいご身分ですわね
+Start:58240,End:58710,Text:ごめん…
+Start:58710,End:60240,Text:心配は結構
+Start:1980,End:5900,Text:那么周日10点 负责人将会前往
+Start:5900,End:8590,Text:感谢您百忙之中抽空接听电话
+Start:31280,End:34300,Text:睦小姐 祥子小姐来了
+Start:36720,End:39100,Text:其他成员已经到齐了
+Start:39390,End:40610,Text:只差你了
+Start:40940,End:41730,Text:我加入
+Start:45810,End:47710,Text:没有回头路哦
+Start:49820,End:52950,Text:因为你快坏掉了
+Start:54020,End:55700,Text:真是居高临下啊
+Start:58240,End:58710,Text:对不…
+Start:58710,End:60240,Text:不劳你操心
